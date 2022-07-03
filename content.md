@@ -1,5 +1,3 @@
-222222222
-
 # Omnifood
 
 ## About Omnifood
