@@ -112,6 +112,7 @@
 
   .btn-mobile-nav {
     display: block;
+    z-index: 9999;
   }
 
   /* MOBILE NAV */
