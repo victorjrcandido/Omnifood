@@ -60,7 +60,7 @@
 
   .hero {
     grid-template-columns: 1fr;
-    padding: 0 8rem;
+    padding: 4rem 8rem;
     gap: 6.4rem;
   }
 
@@ -179,6 +179,10 @@
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .hero {
+    margin-top: 1rem;
+  }
+
   .logos img {
     height: 2rem;
   }
@@ -239,6 +243,7 @@
 
   .hero {
     padding: 0 3.2rem;
+    margin-top: 8.2rem;
   }
 
   .btn,
